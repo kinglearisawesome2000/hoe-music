@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_classical_europe_album_art"
+		texturefile = "gfx//stations//classical_europe_album_art.dds"
+		noOfFrames = 2
+	}
+}

@@ -1,0 +1,55 @@
+
+# VIVALDI - LA FOLLIA
+music = {
+	name = "vivaldi_la_follia"
+	file = "vivaldi_la_follia.ogg"
+	volume = 1.0
+}
+# VIVALDI - CONCERTO IN B MINOR FOR 4 VIOLINS
+music = {
+	name = "vivaldi_rv_580"
+	file = "vivaldi_rv_580.ogg"
+	volume = 1.0
+}
+# CORELLI - LA FOLLIA
+music = {
+	name = "corelli_la_follia"
+	file = "corelli_la_follia.ogg"
+	volume = 1.0
+}
+# MOZART - LACRIMOSA
+music = {
+	name = "mozart_lacrimosa"
+	file = "mozart_lacrimosa.ogg"
+	volume = 1.0
+}
+# MOZART - SYMPHONY NO 40 IN G MINOR
+music = {
+	name = "mozart_symphony_40"
+	file = "mozart_symphony_40.ogg"
+	volume = 1.0
+}
+# HANDEL - HALLELUJIAH CHORUS
+music = {
+	name = "handel_hallelujiah"
+	file = "handel_hallelujiah.ogg"
+	volume = 1.0
+}
+# HANDEL - SARABANDE
+music = {
+	name = "handel_sarabande"
+	file = "handel_sarabande.ogg"
+	volume = 1.0
+}
+# HADYN - EMPEROR'S THEME
+music = {
+	name = "hadyn_emperor_theme"
+	file = "hadyn_emperor_theme.ogg"
+	volume = 1.0
+}
+# PAGANINI CAPRICE 24
+music = {
+	name = "paganini_caprice_24"
+	file = "paganini_caprice_24.ogg"
+	volume = 1.0
+}
